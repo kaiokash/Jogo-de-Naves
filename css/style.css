@@ -306,8 +306,7 @@ h3 {
 	        animation: text-pop-up-bottom 2.5s ease-out both;
             font-family: 'Courier New', Courier, monospace;
             color: orange;
-            margin-left: 400px;
-            margin-top: -50px;
+            text-align: center;
 
 
 }
